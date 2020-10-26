@@ -1,3 +1,1 @@
-print('test git')
-print('if changes in staging area, what happen?')
-print('you need to re-add')
+print('after commit to github, i want to test if i can restore my code after destory!')
